@@ -1,0 +1,19 @@
+{
+  "name": "worksheet-4",
+  "version": "1.0.0",
+  "description": "CISE worksheet 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqj5293/worksheet-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zqj5293/worksheet-4/issues"
+  },
+  "homepage": "https://github.com/zqj5293/worksheet-4#readme"
+}
